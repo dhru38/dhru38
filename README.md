@@ -3,7 +3,7 @@
 </h1>
 
 
-<h2 align="center" style="color:#00FFFF;">My Brain Compiles</h2>
+<h2 align="center" style="color:#00FFFF;">What My Brain Compiles</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,c,cpp,react,js,html,css,mysql,mongodb" />
