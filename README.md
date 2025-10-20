@@ -1,49 +1,33 @@
-<h1 align="center" style="color:#39FF14;">My README</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=PressStart2P&size=35&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hola!!;I+Love+Converting+Random+Thoughts+Into+Projects"/>
+</h1>
 
----
 
-<h2 style="color:#39FF14;">Introduction</h2>
-<p style="color:#39FF14;">
-I love solving problems.<br>
-So I convert random thoughts into cool projects.
+<h2 align="center" style="color:#00FFFF;">My Brain Compiles</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,react,js,html,css,mysql,mongodb" />
 </p>
 
----
-
-<h2 style="color:#39FF14;">Greetings</h2>
-<p style="color:#39FF14;">
-Hola!<br>
-Here are some facts about me:
+<h2 align="center" style="color:#FF69B4;"> My Weapons of Choice</h2>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=vscode,github,arduino"/>
 </p>
 
----
 
-<h2 style="color:#39FF14;">What My Brain Compiles</h2>
-<ul style="color:#39FF14;">
-  <li>Python 🐍 – Where most of my logic lives</li>
-  <li>C / C++ – For when I want to feel close to the hardware</li>
-  <li>Java ☕ – Structured thoughts with a splash of caffeine</li>
-  <li>Arduino IDE ⚡ – Where random ideas turn into blinking lights</li>
-  <li>React & JS 🌐 – Because the web should obey me</li>
-</ul>
+<h2 align="center" style="color:#FF69B4;">My Digital Footprints</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/aniket" target="_blank">
+ <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/dhru38" target="_blank">
+ <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/dhru38" target="_blank">
+ <img src="https://skillicons.dev/icons?i=twitter"/>
+</p>
 
----
 
-<h2 style="color:#39FF14;">Weapons of Choice</h2>
-<ul style="color:#39FF14;">
-  <li>VS Code – My digital playground</li>
-  <li>Git & GitHub – Version control and memory keeper</li>
-  <li>Firebase – For backend magic</li>
-  <li>Figma – Making UI prettier than code</li>
-  <li>Jupyter Notebook – Where experiments come alive</li>
-</ul>
 
----
-
-<h2 style="color:#39FF14;">My Digital Footprints</h2>
-<ul style="color:#39FF14;">
-  <li><a href="#" style="color:#39FF14;">LinkedIn</a> – Professional chaos</li>
-  <li><a href="#" style="color:#39FF14;">Twitter</a> – Opinions, memes, and sometimes tech</li>
-  <li><a href="#" style="color:#39FF14;">Instagram</a> – Coffee, code, and random snippets of life</li>
-  <li>Email – aniket@example.com (Yes, I do respond… sometimes)</li>
-</ul>
