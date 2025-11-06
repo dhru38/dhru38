@@ -6,7 +6,7 @@
 <h2 align="center" style="color:#00FFFF;">What My Brain Compiles</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,react,js,html,css,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,react,js,html,css,mysql,mongodb" />
 </p>
 
 <h2 align="center" style="color:#FF69B4;"> My Weapons of Choice</h2>
@@ -14,7 +14,7 @@
  <img src="https://skillicons.dev/icons?i=vscode,github,arduino"/>
 </p>
 
-<h2 align="center">Random Thoughts That Keep Me Up At Night</h2>
+<h2 align="center">Random Thoughts That Keept Me Up At Night</h2>
 
 <div align="center">
 
