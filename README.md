@@ -14,7 +14,7 @@
  <img src="https://skillicons.dev/icons?i=vscode,github,arduino"/>
 </p>
 
-<h2 align="center">Random Thoughts That Keept Me Up At Night</h2>
+<h2 align="center">Random Thoughts That Kept Me Up At Night</h2>
 
 <div align="center">
 
