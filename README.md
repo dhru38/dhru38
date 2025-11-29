@@ -45,10 +45,6 @@
     <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/Ancient-Bother996" target="_blank">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/small-light/social-light-reddit.svg" alt="Reddit" width="32" height="32"/>
-</a>
-
 </p>
 
 
