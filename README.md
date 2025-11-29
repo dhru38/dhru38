@@ -20,11 +20,15 @@
 
 |  Project |  Description |  Tech Stack |
 |-------------|----------------|----------------|
-|  **Focus Flow** | Tracks your study time using computer vision magic. | `Python`, `OpenCV` |
-|  **Content Genie** | Automates content creation — from Reddit stories to YouTube uploads. | `Python`, `FFmpeg`, `YouTube API`,`Reddit` |
-|  **Fetch My Fate** | Automates result fetching using Selenium — no more manual checks! | `Python`, `Selenium` |
+|  **Monster Financials** | A fully linked 3-statement model forecasting Monster’s revenue, margins & cash flows. | `Excel`, `Financial Modeling`,  |
+|  **Strat Sense** | A RAG-based engine that reads market conditions and picks the best trading strategy in real time. | `Python`, `RAG`, `LLMs`, `Backtesting` |
+|  **Signal Sherlock** | Detects hidden patterns using PAA–SAX and CNNs — a detective for your data. | `Python`, `SAX` |
+|  **Focus Flow** | Tracks your real study time using keystrokes, mouse activity & computer vision. | `Python`, `OpenCV` |
+|  **Content Genie** | Converts Reddit stories into full YouTube videos with automated scripting, voiceover & editing. | `Python`, `FFmpeg`, `YouTube API`, `Reddit API` |
+|  **Fetch My Fate** | Selenium automation that fetches university results instantly — no reloading pain. | `Python`, `Selenium` |
 
 </div>
+
 
 
 
