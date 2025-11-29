@@ -46,9 +46,10 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.reddit.com/user/Ancient-Bother996" target="_blank">
-    <img src="https://skillicons.dev/icons?i=reddit"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
