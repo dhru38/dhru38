@@ -23,6 +23,7 @@
 |  **Monster Financials** | A fully linked 3-statement model forecasting Monster’s revenue, margins & cash flows. | `Excel`, `Financial Modeling`,  |
 |  **Strat Sense** | A RAG-based engine that reads market conditions and picks the best trading strategy in real time. | `Python`, `RAG`, `LLMs`, `Backtesting` |
 |  **Signal Sherlock** | Detects hidden patterns using PAA–SAX and CNNs — a detective for your data. | `Python`, `SAX` |
+| Option Whisperer – Black-Scholes Output | Saves theoretical price and Greeks (Delta, Gamma, Theta, Vega, Rho) calculated from each snapshot. | `SQL`, `Derivatives Pricing`, `Quant Models` |
 |  **Focus Flow** | Tracks your real study time using keystrokes, mouse activity & computer vision. | `Python`, `OpenCV` |
 |  **Content Genie** | Converts Reddit stories into full YouTube videos with automated scripting, voiceover & editing. | `Python`, `FFmpeg`, `YouTube API`, `Reddit API` |
 |  **Fetch My Fate** | Selenium automation that fetches university results instantly — no reloading pain. | `Python`, `Selenium` |
