@@ -46,6 +46,10 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/dhru38" target="_blank">
  <img src="https://skillicons.dev/icons?i=twitter"/>
+  </a>
+   <a href="https://www.reddit.com/u/Ancient-Bother996/s/2eIcwZbA7y" target="_blank">
+ <img src="https://skillicons.dev/icons?i=reddit"/>
+  </a>
 </p>
 
 
