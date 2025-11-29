@@ -36,7 +36,7 @@
 
 <h2 align="center" style="color:#FF69B4;">My Digital Footprints</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/aniket" target="_blank">
+  <a href="https://linkedin.com/in/dhru38" target="_blank">
  <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -47,6 +47,7 @@
   <a href="https://twitter.com/dhru38" target="_blank">
  <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
    <a href="https://www.reddit.com/u/Ancient-Bother996/s/2eIcwZbA7y" target="_blank">
  <img src="https://skillicons.dev/icons?i=reddit"/>
   </a>
